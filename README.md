@@ -146,7 +146,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-19 02:23 CST）
+## API 状态（最近更新：2025-12-19 03:14 CST）
 
 - 总 API 数量：37
 - 成功 API 数量：31
@@ -191,8 +191,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
-| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 92 | 8 | 92.0% | 7 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
+| 🚨 | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 91 | 9 | 91.0% | 8 |
 | ✅ | 🎬CK资源 | https://ckzy.me/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
