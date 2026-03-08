@@ -146,12 +146,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-09 04:19 CST）
+## API 状态（最近更新：2026-03-09 05:17 CST）
 
 - 总 API 数量：37
 - 成功 API 数量：31
 - 失败 API 数量：6
-- 平均可用率：87.9%
+- 平均可用率：87.8%
 - 完美可用率（100%）：19 个
 - 高可用率（80%-99%）：14 个
 - 中等可用率（50%-79%）：0 个
@@ -191,8 +191,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| 🚨 | 🎬旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 96 | 4 | 96.0% | 4 |
-| 🚨 | 🎬旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 96 | 4 | 96.0% | 4 |
+| 🚨 | 🎬旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
+| 🚨 | 🎬旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 95 | 5 | 95.0% | 5 |
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 🎬卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 87 | 13 | 87.0% | 0 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
