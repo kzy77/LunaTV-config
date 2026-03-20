@@ -146,14 +146,14 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-20 18:32 CST）
+## API 状态（最近更新：2026-03-20 19:27 CST）
 
 - 总 API 数量：37
-- 成功 API 数量：33
-- 失败 API 数量：4
+- 成功 API 数量：32
+- 失败 API 数量：5
 - 平均可用率：87.7%
-- 完美可用率（100%）：26 个
-- 高可用率（80%-99%）：6 个
+- 完美可用率（100%）：25 个
+- 高可用率（80%-99%）：7 个
 - 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：4 个
 
@@ -163,7 +163,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 状态 | API 名称 | API 地址 | 成功次数 | 失败次数 | 可用率 | 连续失败天数 |
 |------|----------|----------|---------:|---------:|-------:|-------------:|
 | ✅ | 🎬360资源 | https://360zy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬CK资源 | https://ckzy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -188,12 +187,13 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
+| ❌ | 🎬CK资源 | https://ckzy.me/api.php/provide/vod | 99 | 1 | 99.0% | 1 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
+| ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 67 | 33 | 67.0% | 0 |
 | 🚨 | 🎬U酷88 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬U酷资源 | https://dl.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
