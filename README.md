@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-09 19:43 CST）
+## API 状态（最近更新：2026-05-09 21:02 CST）
 
 - 总 API 数量：37
-- 成功 API 数量：32
-- 失败 API 数量：5
+- 成功 API 数量：33
+- 失败 API 数量：4
 - 平均可用率：87.2%
 - 完美可用率（100%）：23 个
 - 高可用率（80%-99%）：9 个
@@ -190,7 +190,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬CK资源 | https://ckzy.me/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
-| ❌ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
+| ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 92 | 8 | 92.0% | 0 |
 | ✅ | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
