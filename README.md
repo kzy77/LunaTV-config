@@ -146,11 +146,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-08 13:44 CST）
+## API 状态（最近更新：2026-07-08 16:14 CST）
 
 - 总 API 数量：37
-- 成功 API 数量：31
-- 失败 API 数量：6
+- 成功 API 数量：32
+- 失败 API 数量：5
 - 平均可用率：83.9%
 - 完美可用率（100%）：21 个
 - 高可用率（80%-99%）：10 个
@@ -190,7 +190,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬非凡影视 | https://cj.ffzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
+| ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 85 | 15 | 85.0% | 0 |
 | ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 47 | 53 | 47.0% | 0 |
